@@ -1,0 +1,45 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/EBGaramond-Bold.ttf",
+      "sha1": "044c28769bd22d8680643ea01355355de5b2e16a"
+    },
+    {
+      "path": "src/assets/fonts/EBGaramond-BoldItalic.ttf",
+      "sha1": "d903a4ca86d875856673fa0daa58776802f65484"
+    },
+    {
+      "path": "src/assets/fonts/EBGaramond-ExtraBold.ttf",
+      "sha1": "e0e36787a3674a2aaf8eb9c4e48b993ed15cca8c"
+    },
+    {
+      "path": "src/assets/fonts/EBGaramond-ExtraBoldItalic.ttf",
+      "sha1": "4cefd52aec11f50076121cc7c0762ef79bad87f1"
+    },
+    {
+      "path": "src/assets/fonts/EBGaramond-Italic.ttf",
+      "sha1": "499d4963a84978d22080f8d10edc0fcb18da4084"
+    },
+    {
+      "path": "src/assets/fonts/EBGaramond-Medium.ttf",
+      "sha1": "0a1babb31c4064f9b23ed1fdb0ccc46bb004728a"
+    },
+    {
+      "path": "src/assets/fonts/EBGaramond-MediumItalic.ttf",
+      "sha1": "13ec4c856701602531365d7856c4094f545532df"
+    },
+    {
+      "path": "src/assets/fonts/EBGaramond-Regular.ttf",
+      "sha1": "c13fca2e9373fafd8b153a9eb42812c1b274398f"
+    },
+    {
+      "path": "src/assets/fonts/EBGaramond-SemiBold.ttf",
+      "sha1": "7b1e708c44cad9376d9a69b1a0a0596ef921f73c"
+    },
+    {
+      "path": "src/assets/fonts/EBGaramond-SemiBoldItalic.ttf",
+      "sha1": "9710d479296f5ced799b795a85fd42243f4ddbbe"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "406598392502",
+    "project_id": "notepad-b874c",
+    "storage_bucket": "notepad-b874c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406598392502:android:9d73fffeea74f52a97e417",
+        "android_client_info": {
+          "package_name": "com.notebookpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406598392502-q2dqka3rd5g53hjoo6o39stt5d3sc6ng.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.notebookpro",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "406598392502-p90dtp8r0o64f4igm4t4m1d6dmmbgf5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz9EPqLsvDAPSA48nuwzHZSVdUb_EFxKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406598392502-p90dtp8r0o64f4igm4t4m1d6dmmbgf5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
